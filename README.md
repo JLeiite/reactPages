@@ -9,7 +9,7 @@ Projeto de feed simulando uma rede social.
     - Deletar os comentários criados.
     - Modelo do Figma [LINK](https://www.figma.com/file/TFTcYvRBjrKurjyMaUjrFH/Ignite-Feed-(Community)?type=design&t=i1NA4i4z7wiedaPQ-6)
 
-2. Timer
+2. IgniteTimer
 Projeto de cronometro.
 
     Funcionalidades:
